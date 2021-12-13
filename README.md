@@ -1,0 +1,1 @@
+please add nodemodules indiviually before starting the app also make sure for nodejs project yoy are using mongodb compass
